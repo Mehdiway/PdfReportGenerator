@@ -88,4 +88,4 @@ This project is licensed under the MIT License. See [LICENSE](../LICENSE) for de
 
 ## Author
 
-- Taken from [Milan Jovanivic](mailto:your.email@example.com) [video](https://www.youtube.com/watch?v=XkhQLnO6v-Y)
+- Taken from [Milan Jovanivic](https://github.com/m-jovanovic) [video](https://www.youtube.com/watch?v=XkhQLnO6v-Y)
